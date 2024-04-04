@@ -9,8 +9,10 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "json-server": "^1.0.0-alpha.23"
-  },
-  "type": "module" // Move this line outside of any object
+   "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  }, // Add comma here
+  "type": "module"
 }
