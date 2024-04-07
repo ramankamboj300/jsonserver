@@ -1,14 +1,17 @@
 {
-  "List": [{
+  "List": [
+    {
       "Title": "Programming",
       "Image": "assets/Images/1.png",
       "id": "1",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "Angular",
-          "Icon": "assets/Images/angular1.png",
-          "Image": "assets/Images/angular1.png",
-          "Courses": [{
+          "Icon": "assets/Images/angular.png",
+          "Image": "assets/Images/angular.png",
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": "PLru6dXSeaUJG_-PWrs-VqjSrfowadCDSE",
               "Details": ""
@@ -25,76 +28,341 @@
             }
           ]
         },
-
         {
           "id": "2",
-          "Category": "React.js",
-          "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": "PLru6dXSeaUJHHl9LU9_6NUy6umE8eAn1U",
-            "Details": ""
-          }]
-        },
-
-        {
-          "id": "2",
-          "Category": "HTML",
-          "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": "PLru6dXSeaUJHHl9LU9_6NUy6umE8eAn1U",
-            "Details": ""
-          }]
+          "Category": "React Native",
+          "Icon": "assets/Images/reactnative.png",
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": "PL8p2I9GklV468O2wk-n8Q1KmtMhnHHj4C",
+              "Details": ""
+            },
+            {
+              "Id": "2",
+              "PlayListUrl": "PLvN7nvnjkvpQribRyQ4r0FYZxKsPLGciy",
+              "Details": ""
+            },
+            {
+              "Id": "4",
+              "PlayListUrl": "PLPoBhjfjcixZo0zwyAE7viu7-sGtrLdx2",
+              "Details": ""
+            },
+            {
+              "Id": "5",
+              "PlayListUrl": "PL8p2I9GklV479IV5cXwKXqGOcCOu0bPXW",
+              "Details": ""
+            },
+            {
+              "Id": "6",
+              "PlayListUrl": "PLqLEnFoF-ykdfNBy4gj5kOjJ9L2JpP1ll",
+              "Details": ""
+            },
+            {
+              "Id": "7",
+              "PlayListUrl": "PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c",
+              "Details": ""
+            },
+            {
+              "Id": "8",
+              "PlayListUrl": "PLq82_U-w62rgyEIvvZPLCr_1O3eR27uC-",
+              "Details": ""
+            },
+            {
+              "Id": "9",
+              "PlayListUrl": "PL8p2I9GklV44NMx-i9-A0EN3X-s7cDdty",
+              "Details": ""
+            },
+            {
+              "Id": "10",
+              "PlayListUrl": "PLvN7nvnjkvpRiJrzy2BhmQIByubcxCSsB",
+              "Details": ""
+            },
+            {
+              "Id": "11",
+              "PlayListUrl": "PLvN7nvnjkvpRNbWkVPLlXDYj08qP6cV_K",
+              "Details": ""
+            },
+            {
+              "Id": "12",
+              "PlayListUrl": "PL9fcHFJHtFaZ6DuInqORqFUaKiZO1XCmb",
+              "Details": ""
+            },
+            {
+              "Id": "13",
+              "PlayListUrl": "PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f",
+              "Details": ""
+            },
+            {
+              "Id": "14",
+              "PlayListUrl": "PL0JfpSrXxTMyfQ0fWd2VFK6inHsHSNWc9",
+              "Details": ""
+            },
+            {
+              "Id": "15",
+              "PlayListUrl": "PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1",
+              "Details": ""
+            },
+            {
+              "Id": "16",
+              "PlayListUrl": "PLaBeGKL1tOU0FuOxkLHFy_zOlIqOWUcNc",
+              "Details": ""
+            },
+            {
+              "Id": "17",
+              "PlayListUrl": "PLP6ZQp0XC38lEgFNIOe3G9qxOsN3bDaGR",
+              "Details": ""
+            },
+            {
+              "Id": "18",
+              "PlayListUrl": "PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ",
+              "Details": ""
+            },
+            {
+              "Id": "19",
+              "PlayListUrl": "PLlydFsFRbxJ1zpsPAPxMmKRDZsuE0TzWS",
+              "Details": ""
+            },
+            {
+              "Id": "20",
+              "PlayListUrl": "PLB97yPrFwo5hZGcsD7Ac9rNPidDWjp79A",
+              "Details": ""
+            }
+          ]
         },
         {
           "id": "3",
+          "Category": "HTML",
+          "Icon": "assets/Images/html.png",
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": "PLru6dXSeaUJHHl9LU9_6NUy6umE8eAn1U",
+              "Details": ""
+            },
+            {
+              "Id": "2",
+              "PlayListUrl": "PLu71SKxNbfoDBNF5s-WH6aLbthSEIMhMI",
+              "Details": ""
+            },
+            {
+              "Id": "3",
+              "PlayListUrl": "PLjpp5kBQLNTSQqbELPhas4fOEHvO8nO5M",
+              "Details": ""
+            },
+            {
+              "Id": "4",
+              "PlayListUrl": "PLwgFb6VsUj_mtXvKDupqdWB2JBiek8YPB",
+              "Details": ""
+            },
+            {
+              "Id": "5",
+              "PlayListUrl": "PL8p2I9GklV44CbA1EsDKpZb8mZo8IFbIQ",
+              "Details": ""
+            },
+            {
+              "Id": "6",
+              "PlayListUrl": "PL0b6OzIxLPbxStBQ21C2toa5uQMqHEoRT",
+              "Details": ""
+            },
+            {
+              "Id": "7",
+              "PlayListUrl": "PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg",
+              "Details": ""
+            },
+            {
+              "Id": "8",
+              "PlayListUrl": "PLMxec9nlD1X1_xQlC-REYdCvw8pdoQa0h",
+              "Details": ""
+            },
+            {
+              "Id": "9",
+              "PlayListUrl": "PLjVLYmrlmjGdBWjZzfJqUWj5KJ_JOnFXR",
+              "Details": ""
+            },
+            {
+              "Id": "10",
+              "PlayListUrl": "PLw9zMOoodWb6KogQMHqAfXk_y0tgJSzI3",
+              "Details": ""
+            },
+            {
+              "Id": "11",
+              "PlayListUrl": "PLQTpQ6MVY_T_wEj2j6c4XAvEkJDT3K4TA",
+              "Details": ""
+            },
+            {
+              "Id": "12",
+              "PlayListUrl": "PLwmDa-QvqlfgD_EU7KFRiB2YUn_wSnxW4",
+              "Details": ""
+            },
+            {
+              "Id": "13",
+              "PlayListUrl": "PLZPZq0r_RZOPoNttk9beDhO_Bu5DA-xwP",
+              "Details": ""
+            },
+            {
+              "Id": "14",
+              "PlayListUrl": "PLNa0O-WeED7zYBbP5cuJM8RU8IuVABP9u",
+              "Details": ""
+            },
+            {
+              "Id": "15",
+              "PlayListUrl": "PLZca26lQcxTqP5Op6DX82nRpAgeMpSjZ3",
+              "Details": ""
+            },
+            {
+              "Id": "16",
+              "PlayListUrl": "PLjpp5kBQLNTSdLVVjU_kea8J8lP24ZseT",
+              "Details": ""
+            },
+            {
+              "Id": "17",
+              "PlayListUrl": "PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i",
+              "Details": ""
+            },
+            {
+              "Id": "18",
+              "PlayListUrl": "PL724pdDXl9Q1KxL7dQ6HlyjO7tbJzfh5f",
+              "Details": ""
+            },
+            {
+              "Id": "19",
+              "PlayListUrl": "PLfEr2kn3s-bpuh9XfcDlXP6weTISBWzvQ",
+              "Details": ""
+            },
+            {
+              "Id": "20",
+              "PlayListUrl": "PLPppPPmk0i3hZCNmbVtcP1hlwDKOdUFX9",
+              "Details": ""
+            },
+            {
+              "Id": "21",
+              "PlayListUrl": "PLHjOos34ty4GGXiWZ0vg4qtOp22WCO-3W",
+              "Details": ""
+            }
+          ]
+        },
+        {
+          "id": "4",
           "Category": "JavaScript",
-          "Icon": "",
-          "Courses": [{
+          "Icon": "assets/Images/javascript.png",
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": "PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf",
               "Details": ""
             },
             {
               "Id": "2",
-              "PlayListUrl": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+              "PlayListUrl": "PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW",
               "Details": ""
             },
             {
               "Id": "3",
-              "PlayListUrl": "PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT",
+              "PlayListUrl": "PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR",
               "Details": ""
             },
             {
               "Id": "4",
+              "PlayListUrl": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+              "Details": ""
+            },
+            {
+              "Id": "5",
               "PlayListUrl": "PLsyeobzWxl7qtP8Lo9TReqUMkiOp446cV",
               "Details": ""
+            },
+            {
+              "Id": "6",
+              "PlayListUrl": "PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET",
+              "Details": ""
+            },
+            {
+              "Id": "7",
+              "PlayListUrl": "PLVnJhHoKgEmp5SRFPKsy61BeWozI3mwcV",
+              "Details": ""
+            },
+            {
+              "Id": "8",
+              "PlayListUrl": "PLRvH37iEcMFFmOF1hubKmBQkz3zwKunBb",
+              "Details": ""
+            },
+            {
+              "Id": "9",
+              "PlayListUrl": "PLZPZq0r_RZOMRMjHB_IEBjOW_ufr00yG1",
+              "Details": ""
+            },
+            {
+              "Id": "10",
+              "PlayListUrl": "PLZPZq0r_RZOMRMjHB_IEBjOW_ufr00yG1",
+              "Details": ""
+            },
+            {
+              "Id": "11",
+              "PlayListUrl": "PLqkLaKB2GJhWXV9rcarwvn06ISlL_9mPQ",
+              "Details": ""
+            },
+            {
+              "Id": "12",
+              "PlayListUrl": "PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX",
+              "Details": ""
+            },
+            {
+              "Id": "13",
+              "PlayListUrl": "PLhW3qG5bs-L9MspCEDoTa4TuGJ3K9k9F_",
+              "Details": ""
+            },
+            {
+              "Id": "14",
+              "PlayListUrl": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+              "Details": ""
+            },
+            {
+              "Id": "15",
+              "PlayListUrl": "PLZca26lQcxTplSgALWexhmuE6L1d3oDm5",
+              "Details": ""
+            },
+            {
+              "Id": "16",
+              "PlayListUrl": "PLu0W_9lII9ajyk081To1Cbt2eI5913SsL",
+              "Details": ""
+            },
+            {
+              "Id": "17",
+              "PlayListUrl": "PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa",
+              "Details": ""
+            },
+            {
+              "Id": "18",
+              "PlayListUrl": "PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+              "Details": ""
             }
-
           ]
         }
       ]
     },
-
     {
       "Title": "Computer Science",
       "Image": "assets/Images/2.png",
       "id": "2",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "Tabla",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -106,25 +374,28 @@
         }
       ]
     },
-
     {
       "Title": "Graphic Design",
       "Image": "assets/Images/14.png",
       "id": "3",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -136,25 +407,28 @@
         }
       ]
     },
-
     {
       "Title": "Digital Marketing",
       "Image": "assets/Images/24.png",
       "id": "3",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -166,26 +440,28 @@
         }
       ]
     },
-
-
     {
       "Title": "Computer Softwares",
       "Image": "assets/Images/5.png",
       "id": "4",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -197,25 +473,28 @@
         }
       ]
     },
-
     {
       "Title": "Mobile Development",
       "Image": "assets/Images/12.png",
       "id": "5",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -227,25 +506,28 @@
         }
       ]
     },
-
     {
       "Title": "Web Design",
       "Image": "assets/Images/19.png",
       "id": "6",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -257,25 +539,28 @@
         }
       ]
     },
-
     {
       "Title": "Technology",
       "Image": "assets/Images/9.png",
       "id": "7",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -287,25 +572,28 @@
         }
       ]
     },
-
     {
       "Title": "Business",
       "Image": "assets/Images/17.png",
       "id": "8",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -317,25 +605,28 @@
         }
       ]
     },
-
     {
       "Title": "Engineering",
       "Image": "assets/Images/4.png",
       "id": "8",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -347,25 +638,28 @@
         }
       ]
     },
-
     {
       "Title": "Soft Skills",
       "Image": "assets/Images/9.png",
       "id": "9",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -377,25 +671,28 @@
         }
       ]
     },
-
     {
       "Title": "Drawing",
       "Image": "assets/Images/14.png",
       "id": "10",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -407,26 +704,28 @@
         }
       ]
     },
-
-
     {
       "Title": "Photography",
       "Image": "assets/Images/16.png",
       "id": "11",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -438,25 +737,28 @@
         }
       ]
     },
-
     {
       "Title": "Career Development",
       "Image": "assets/Images/6.png",
       "id": "12",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -468,25 +770,28 @@
         }
       ]
     },
-
     {
       "Title": "Accounting",
       "Image": "assets/Images/23.png",
       "id": "13",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -498,26 +803,28 @@
         }
       ]
     },
-
-
     {
       "Title": "Science",
       "Image": "assets/Images/11.png",
       "id": "14",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "Tabla",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -529,26 +836,28 @@
         }
       ]
     },
-
-
     {
       "Title": "Real Estate",
       "Image": "assets/Images/22.png",
       "id": "15",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -560,25 +869,28 @@
         }
       ]
     },
-
     {
       "Title": "Marketing",
       "Image": "assets/Images/8.png",
       "id": "16",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -590,27 +902,28 @@
         }
       ]
     },
-
-   
-
     {
       "Title": "kitchen and Cooking",
       "Image": "assets/Images/18.png",
       "id": "18",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -622,25 +935,28 @@
         }
       ]
     },
-
     {
       "Title": "woman and Beauty",
       "Image": "assets/Images/21.png",
       "id": "19",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -652,25 +968,28 @@
         }
       ]
     },
-
     {
       "Title": "Humanities",
       "Image": "assets/Images/25.png",
       "id": "20",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -682,25 +1001,28 @@
         }
       ]
     },
-
     {
       "Title": "Music",
       "Image": "assets/Images/20.png",
       "id": "21",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -712,25 +1034,28 @@
         }
       ]
     },
-
     {
       "Title": "Languages",
       "Image": "assets/Images/14.png",
       "id": "22",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -742,26 +1067,28 @@
         }
       ]
     },
-
-
     {
       "Title": "Mathematics",
       "Image": "assets/Images/15.png",
       "id": "23",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -773,25 +1100,28 @@
         }
       ]
     },
-
     {
       "Title": "Medical",
       "Image": "assets/Images/10.png",
       "id": "24",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -803,25 +1133,28 @@
         }
       ]
     },
-
     {
       "Title": "Languages in Arabic",
       "Image": "assets/Images/13.png",
       "id": "25",
-      "Items": [{
+      "Items": [
+        {
           "id": "1",
           "Category": "PhotoShop",
           "Icon": "",
-          "Courses": [{
-            "Id": "1",
-            "PlayListUrl": ""
-          }]
+          "Courses": [
+            {
+              "Id": "1",
+              "PlayListUrl": ""
+            }
+          ]
         },
         {
           "id": "2",
           "Category": "Tanpura",
           "Icon": "",
-          "Courses": [{
+          "Courses": [
+            {
               "Id": "1",
               "PlayListUrl": ""
             },
@@ -833,7 +1166,5 @@
         }
       ]
     }
-
-
   ]
 }
